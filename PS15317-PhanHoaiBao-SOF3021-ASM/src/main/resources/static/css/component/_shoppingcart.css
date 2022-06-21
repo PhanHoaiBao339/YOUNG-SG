@@ -1,0 +1,13 @@
+@media (min-width: 1025px) {
+    .h-custom {
+        height: 100vh !important;
+    }
+}
+
+.w-37-5 {
+    width: 375px;
+}
+
+.h-300 {
+    max-height: 300px;
+}

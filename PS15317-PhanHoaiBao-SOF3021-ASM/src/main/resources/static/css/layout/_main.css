@@ -1,0 +1,28 @@
+.container {
+    margin: 30px auto
+}
+
+
+.fw-800 {
+    font-weight: 800
+}
+
+.bg-green {
+    background-color: #208f20 !important;
+    color: #fff
+}
+
+.bg-black {
+    background-color: #1f1d1d;
+    color: #fff
+}
+
+.bg-red {
+    background-color: #bb3535;
+    color: #fff
+}
+
+.bg-darkcyan {
+    background-color: darkcyan;
+}
+

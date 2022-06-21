@@ -1,0 +1,7 @@
+.navbar .navbar-toggler:focus {
+    box-shadow: none
+}
+
+.navsubitem:hover {
+    background-color: #019ABD;
+}
